@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: MySQL, HTML, and CSS.
 
   ---
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&show_icons=true&locale=en&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&layout=donut-vertical&langs_count=20)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Gus-Victrix&%22)
