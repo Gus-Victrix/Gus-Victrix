@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![profile_views](https://komarev.com/ghpvc/?username=Gus-Victrix&label=Profile%20views&color=0e75b6&style=flat)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gus-Victrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&&theme=matrix&no-bg=true)](https://github.com/ryo-m/github-profile-trophy)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Gus-Victrix&%22)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -23,5 +26,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: MySQL, HTML, and CSS.
 
   ---
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&layout=donut-vertical&langs_count=20)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Gus-Victrix&%22)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&layout=donut&langs_count=5&show_icons=true&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=Gus-Victrix&layout=donut-vertical&langs_count=20&show_icons=true&theme=transparent)
