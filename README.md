@@ -3,7 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gus-Victrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&&theme=matrix&no-bg=true)](https://github.com/ryo-m/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--
