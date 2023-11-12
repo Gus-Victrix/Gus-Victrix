@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: MySQL, HTML, and CSS.
 
   ---
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&layout=donut&langs_count=5&show_icons=true&theme=transparent)
 ![stats](https://github-readme-stats.vercel.app/api?username=Gus-Victrix&layout=donut-vertical&langs_count=20&show_icons=true&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Gus-Victrix&layout=donut&langs_count=5&show_icons=true&theme=transparent)
