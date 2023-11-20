@@ -1,0 +1,298 @@
+         
+
+
+Category ⬇️                        Grade ➡️
+
+1-2  (Terrible)
+
+3 (Adequate)
+
+4-5 (Excellent)
+
+Reasoning Quality [course link]
+
+
+Spelling Grammar / Languages
+
+Readability  - The response has multiple spelling or grammatical errors that significantly impact the readability - how easily the response can be parsed by human readers
+
+Language Mechanics - Response includes errors that may encompass incorrect verb forms, sentence structure problems, run-on sentences, punctuation and sentence fragments
+
+Readability - The response has some spelling or grammatical errors but the response is still readable
+
+Language Mechanics - Response indicates proficient use of language mechanics, with only minor corrections
+
+Readability - The response has no spelling or grammatical errors
+
+Language Mechanics - Response indicates advanced use of language mechanics, with no minor corrections
+
+
+Code Documentation
+
+Code/In-line Documentation - no in-line documentation
+
+Code/In-line Documentation - Variable names are accurate.
+
+Comments all over the code.
+
+Lack of docstrings.
+
+
+
+Code/In-line Documentation - Variable names are accurate.
+
+Code contains a reasonable amount of helpful inline comments
+
+
+Overall Helpfulness
+
+Accuracy - The non code explanation is not accurate OR missing
+
+Helpfulness - The non code explanation is unhelpful or barely helpful OR missing.
+
+Accuracy -  The non code explanation of the answer is somewhat understood and accounted for.
+
+Helpfulness - The non code explanation is somewhat helpful.
+
+
+Accuracy - The non code explanation of the answer is fully understood and accounted for.
+
+Helpfulness - The non code explanation of the answer entirely answers the prompt.
+
+
+Tone Appropriateness
+
+The prompt and response do not use the right tone for the context of the task type (formal, informal, amount of technical jargon)
+
+The tone of the prompt and response is hit or miss
+
+The prompt and response use the right tone for the context of the task type (formal, informal, amount of technical jargon)
+
+
+Explanation Depth
+
+Depth - The non code explanation does not go into enough detail OR missing
+
+Depth -  The non code explanation goes into some detail but falls short with implicit requests or caveats.
+
+Depth The non-code portion of the text explains the problem, context and solution to a sufficient degree of depth, the user should completely understand the solution with this response
+
+Style and Formatting - [course link]
+
+
+Code Readability
+
+Formatting - Formatting makes code difficult to read.
+
+Naming - Variable and function names make understanding code more difficult.
+
+Formatting - Minor inconsistencies.
+
+Naming - Variable and function names are clear and concise.
+
+
+Formatting - Perfect formatting that is neat and utilizes white-space effectively.
+
+Naming - Variables and function names make understanding of code easier.
+
+
+Conciseness
+
+Repetition - The response communicates the exact same ideas, but potentially in slightly different ways, multiple times within the response. The repetition is not used for stylistic effect
+
+Length - The response is overly verbose, and/or significantly exceeds the the word limits directly imposed by the prompt
+
+Verbosity - Reponses with poor conciseness take multiple sentences to explain concepts that are possible within a sentence or two.
+
+Repetition - The response communicates the exact same ideas, but in slightly different ways multiple times within the response. The repetition is not used for stylistic effect
+
+Length - The response is close to the length specified explicitly by the prompt
+
+Verbosity - Response explains most of its concepts or points efficiently, but still may have some overly verbose sentences or claims
+
+Repetition - Response does not unnecessarily repeat information, implicitly or explicitly, unless as a  stylistic device to emphasize certain key points
+
+Length - The response fits the length specified explicitly by the prompt
+
+Verbosity - Response efficiently communicates its concepts and points consistently. Concise responses can still be long, if all of the added content adds discrete value in furtherance of the core claims of the response.
+
+
+Formatting & Coherence
+
+Visual Presentation - There is no visual separation between ideas; Distinct ideas are lumped together in one paragraph
+
+Text Formatting -  Lists are not broken into bullet points; Markdown is broken.
+
+Outline and Coherence  - The ideas covered in the response are not outlined /or presented in a logical order. Each paragraph jumps from idea to idea with no logical transition
+
+Visual Presentation - The ideas covered in the response are visually separated into distinct text space
+
+Text Formatting -  Lists are used when appropriate, including bolding where relevant. Markdown renders appropriately. Key detail may not be bolded
+
+Outline and Coherence  - The ideas covered in the response are outlined, but the transition between paragraphs and ideas could be improved
+
+Visual Presentation - The ideas covered in the response are visually separated into distinct text spaces. Whitespace is used intentionally with added effect.
+
+Text Formatting -  Lists are used when appropriately, including bolding where relevant. Markdown renders appropriately.
+
+Outline and Coherence - ideas are introduced and outlined to the reader appropriately, and ideas seamlessly transition from one to another
+
+
+Code Design & Implementation
+
+Code is ambiguous, unorganized and it’s really unclear  what each line does. The structure could be improved.
+
+Code is messy and it’s not immediately obvious what it does but eventually it can be understood.
+
+Code is nicely de-composed and divided in functions that are intelligible and that make sense. The code reads nicely.
+
+
+Verbosity
+
+Response and prompt feature plenty of verbosity, redundancy and unnecessary filler content.
+
+
+
+Response and prompt features some verbosity, redundancy or unnecessary filler content but the task remains of good quality.
+
+Response and prompt avoid verbosity, redundancy and unnecessary filler content.
+
+Functionality and Performance - [course link]
+
+
+Compilation
+
+Compilation - Does not compile
+
+Side Effects - Contains semantic and syntactic errors
+
+Compilation - Code compiles without errors but may contain warnings
+
+Side Effects - Contains syntactic errors but no semantic errors
+
+
+Compilation - Code compiles without any  errors or warnings
+
+Side Effects - No semantic or syntactic errors or warnings
+
+
+
+
+Execution Output
+
+Completeness - Output does not sufficiently answer the prompt at all.
+
+Correctness - Output is irrelevant and incorrect.
+
+Completeness - Output somewhat answers the prompt but does not take into account all edge cases and constraints.
+
+Correctness  - Output is relevant but not correct.
+
+
+
+Completeness - output fully answers the prompt and takes into consideration all edge cases and constraints.
+
+Correctness - Output is relevant and completely correct.
+
+
+
+Performance
+
+Optimization - Overall strategy is a sub-optimal method and no optimization steps taken.
+
+Run Time - Code takes an unnecessary amount of time to run (i.e runtime exceeds 1 min on small datasets.)
+
+Optimization - Somewhat optimized.
+
+Run Time - Code takes an acceptable amount of time to run.
+
+
+Optimization - Highly optimized.
+
+Run Time - Code takes an expected time to run.
+
+
+Completeness - does the program do what it says it will
+
+- The program does not cover important edge cases
+- Prompt is very simple
+
+- The program covers only some important edge cases
+- Prompt could be improved in terms of complexity
+
+- Code covers edge cases and full scopes of use cases discussed in prompt.
+- Prompt is complex enough
+
+
+Does the code do what it says it does, and does it execute things correctly.
+
+
+
+
+Standards  - does not follow industry standards.
+
+Language Proficiency - Does not use programming language effectively.
+
+Simplicity - overly complicated or too simple implementation.
+
+Standards  - mostly follows industry standards.
+
+Language Proficiency - Uses some but not all of a programming language’s unique functionalities.
+
+Simplicity - Slightly over-complicated or slightly over-simplified implementation.
+
+
+Standards  - perfectly follows industry standards..
+
+Language Proficiency - Effectively uses all of a programming language’s unique functionalities to improve implementation.
+
+Simplicity - Exhaustively implementation without any over
+
+Code takes advantage of the programming language.
+
+Usage of appropriate APIs.
+
+Strong usage of best-practices.
+
+Relevance and Completeness - [course link]
+
+Accuracy - Does not follow prompt’s request.
+
+Depth - Does not go into enough detail to sufficiently answer the prompt.
+
+Helpfulness - Responses are unhelpful or barely helpful.
+
+Accuracy - The context of the prompt is somewhat understood and accounted for.
+
+Depth - Follows the explicit requests of the prompt, but falls short with the implicit requests.
+
+Helpfulness - Correct and mostly addresses the prompt.
+
+Accuracy - The context of the prompt is fully understood and accounted for.
+
+Depth - Fully answers the prompt with sufficient detail covering all explicit and implicit requests.
+
+Helpfulness - Correct and entirely answers prompt.
+
+
+
+Trust and Safety - [course link]
+
+The response provided shows opinion, bias, harmful or illegal information - OR - the response gives medical, legal, or financial advice without appropriate disclaimers.
+
+The response provides minor (implicit) shows opinion, bias, harmful or illegal information
+
+Response does not show opinion, bias, harmful or illegal information - AND does not give medical, legal, or financial advice without appropriate disclaimers.
+
+Security - [course link]
+
+ - Code is unsafe to execute (contains viruses, memory leaks, unsolicited accessing of files, etc)
+
+- Safety - No viruses, memory leakages, unsolicited accessing of files, etc.
+
+
+
+- Safety - No viruses, memory leakages, unsolicited accessing of files, etc.
+
+- The explanation or code does not clearly have a malicious intention including: Discrimination, hateful content, virus/malware generation, exposing personal information.
+
