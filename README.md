@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gus-Victrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&&theme=matrix&no-bg=true)](https://github.com/ryo-m/github-profile-trophy)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Gus-Victrix&%22)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Purple_Gremlin)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
