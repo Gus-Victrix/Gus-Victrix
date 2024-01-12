@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: MySQL, HTML, and CSS.
+- 🌱 I’m currently learning: MySQL, PostgreSQL, NumPy, Matplotlib, and Pandas.
 
   ---
 ![stats](https://github-readme-stats.vercel.app/api?username=Gus-Victrix&layout=donut-vertical&langs_count=20&show_icons=true&theme=transparent)
